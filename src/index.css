@@ -19,6 +19,9 @@ body .container .title {
 body .container .task-complete {
     text-decoration: line-through;
 }
+body .container .show-edit {
+    display: none;
+}
 body .container form {
     width: 100%;
     display: flex;
